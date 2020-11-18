@@ -1,0 +1,16 @@
+A través de la consola uso el siguiente comando:
+ssh anta6688@185.66.41.99 he introduciendo mi contraseña he accedido a mi servidor de cdmon mediante 
+el servicio ssh. Una vez dentro con el comando pwd observo que estoy en mi directorio /entrada, uso el comando
+cd .. para ir un directorio hacia atrás, realizo un ls y busco la carpeta web a la que acced
+mediante el comando cd web. Una vez en ella realizo un mkdir para crear el directorio 
+alimentos72020 con el comando "mkdir alimentos72020".
+
+Una vez dentro realizaré un git init para controlar esta carpeta y conectarla a GitHub ya que
+mi intención es traerme a mi servidor, el proyecto php que hemos realizado en GitHub. Para ello
+después del git init , realizo un "git remote add conexion https://github.com/mcascal17/GRUPO7DAW20"
+para crear la conexión y mediante un "git pull conexion master" traigo a mi servidor dicho proyecto.
+Debido a un error en compatibilidad de licencias, antes de poder usar el comando pull, he realizado un 
+"git config --global http.sslVerify false" para que se salte en comprobador de licencias. Una vez hecho esto
+y como en GitHub ya modificamos con anterioridad el fichero "Config.php" para introducir los datos de conexión a
+mi base de datos, mediante la siguiente URL:http://anta.es.mialias.net/alimentos72020/web/ he podido acceder
+al proyecto dando por finalizada la instalación y el despliegue del mismo.
