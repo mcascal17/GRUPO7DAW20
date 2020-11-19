@@ -1,1 +1,14 @@
 
+Integrante 2: Víctor Manuel Anta Castro
+Considero que en conjunción de Github con Cdmon agiliza mucho a la hora de gestionar un despliegue así como la base de datos,
+con respecto a opinión personal he aprendido mucho de esta práctica y se me han ido ocurriendo infinidad de ideas conforme
+iba avanzando en la misma. La interación Git-GitHub-Cdmon agiliza el control de la base de datos muchisimo y ofrece un control
+bastante bueno sobre la misma. A la hora de trabajar con GitHub desde distintos usuarios que interaccionen con un mismo proyecto
+tiene que ser impresionante , a la vez que una locura si no se explica lo que realizan los distintos integrantes, o se interacciona
+amenudo con ellos.
+
+Integrante 1: Macario Castaño Calero
+Es una buena herramienta, ideal para trabajar en equipo y llevar al día el trabajo, facilita la comunicación entre contribuyentes,
+tiene una interfaz facil de utilizar, dando la posibilidad incluso de hacer modificaciones y crear nuevos archivos desde aqui,
+quien le eche un tiempo y sea capaz de dominar todos sus comandos seguramente será capaz de sacarle mucho mas partido de lo que hemos
+utilizado nosotros, aún así me parece un imprescindible en nuestro sector.
