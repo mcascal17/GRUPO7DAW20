@@ -1,14 +1,41 @@
 
-Integrante 2: Víctor Manuel Anta Castro
-Considero que en conjunción de Github con Cdmon agiliza mucho a la hora de gestionar un despliegue así como la base de datos,
-con respecto a opinión personal he aprendido mucho de esta práctica y se me han ido ocurriendo infinidad de ideas conforme
-iba avanzando en la misma. La interación Git-GitHub-Cdmon agiliza el control de la base de datos muchisimo y ofrece un control
-bastante bueno sobre la misma. A la hora de trabajar con GitHub desde distintos usuarios que interaccionen con un mismo proyecto
-tiene que ser impresionante , a la vez que una locura si no se explica lo que realizan los distintos integrantes, o se interacciona
-amenudo con ellos.
+  Integrante 2: Víctor Manuel Anta Castro
 
-Integrante 1: Macario Castaño Calero
-Es una buena herramienta, ideal para trabajar en equipo y llevar al día el trabajo, facilita la comunicación entre contribuyentes,
-tiene una interfaz facil de utilizar, dando la posibilidad incluso de hacer modificaciones y crear nuevos archivos desde aqui,
-quien le eche un tiempo y sea capaz de dominar todos sus comandos seguramente será capaz de sacarle mucho mas partido de lo que hemos
-utilizado nosotros, aún así me parece un imprescindible en nuestro sector.
+  Considero que en conjunción de Github con Cdmon agiliza mucho a la hora de gestionar un despliegue así como la base de datos,
+  con respecto a opinión personal he aprendido mucho de esta práctica y se me han ido ocurriendo infinidad de ideas conforme
+  iba avanzando en la misma. La interación Git-GitHub-Cdmon agiliza el control de la base de datos muchisimo y ofrece un control
+  bastante bueno sobre la misma. A la hora de trabajar con GitHub desde distintos usuarios que interaccionen con un mismo proyecto
+  tiene que ser impresionante , a la vez que una locura si no se explica lo que realizan los distintos integrantes, o se interacciona
+  amenudo con ellos.
+
+
+  Integrante 1: Macario Castaño Calero
+
+  Es una buena herramienta, ideal para trabajar en equipo y llevar al día el trabajo, facilita la comunicación entre contribuyentes,
+  tiene una interfaz facil de utilizar, dando la posibilidad incluso de hacer modificaciones y crear nuevos archivos desde aqui,
+  quien le eche un tiempo y sea capaz de dominar todos sus comandos seguramente será capaz de sacarle mucho mas partido de lo que hemos
+  utilizado nosotros, aún así me parece un imprescindible en nuestro sector.
+
+
+  Integrante 3: Jose Antonio Marín García
+
+  Es muy útil, dinámico, y ofrece múltitud de combinaciones, [Equipo + Repositorio + Hosting] [Local + Github + CDmon], bajo mí punto de 
+  vista es un gran avance, ya tenía un repositorio para proyectos, pero no usaba la herramienta Git, lo más interesante es el aprendizaje,
+  controlar bien la líneas de comando de Git para aprovechar todas su ventajas, antes de esta práctica ya había previsto su uso profesionalmente,
+  y me preparé los entorno de desarrollo, Apache Netbeans y Visual Studio Code, para la ocasión de poder sacarles provecho y aprender mucho más,
+  incluso ya tenía descargado el manual Git-Pro, y múltiples tutoriales y curso al respecto.
+
+  Anteriormente había buscado información sobre versiones libres para la gestión de repositorios como GitKraken, también para entorno visuales,
+  de hecho instalé algunos pluggins en Visual Studio Code para consultar el histórico de cambios, la gestión de Branches, consola Git, y la 
+  implementación de Git en dichos entornos.
+
+  En conclusión, me ha parecido una práctica interesantísima, motivadora, tanto que he rescatado una idea que lleva rondándome la cabeza bastante
+  tiempo, y que iré perfilando conforme vayamos avanzando el curso y los proyectos de cada asignatura, aún que en este caso la idea sea paralela
+  a ellos, pero es un perfecto proyecto curricular y de difusión.
+
+  Me ha gustado mucho y he aprendido bastante, ahora en algún momento haré alguno de los tutoriales que tengo para mejorar, también otra valoración
+  personal, me he sentido bien trabajando en equipo, al menos con este equipo, todo hay que decirlo, son buenos colaboradores, espero repetir 
+  colaboración en alguna que otra práctica futura.
+
+
+  PD: Gracias Jesús, es bueno apreder y que además quieran enseñarte.    
