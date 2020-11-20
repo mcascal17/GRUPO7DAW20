@@ -21,9 +21,9 @@
 
   Es muy útil, dinámico, y ofrece múltitud de combinaciones, [Equipo + Repositorio + Hosting] [Local + Github + CDmon], bajo mí punto de 
   vista es un gran avance, ya tenía un repositorio para proyectos, pero no usaba la herramienta Git, lo más interesante es el aprendizaje,
-  controlar bien la líneas de comando de Git para aprovechar todas su ventajas, antes de esta práctica ya había previsto su uso profesionalmente,
-  y me preparé los entorno de desarrollo, Apache Netbeans y Visual Studio Code, para la ocasión de poder sacarles provecho y aprender mucho más,
-  incluso ya tenía descargado el manual Git-Pro, y múltiples tutoriales y curso al respecto.
+  controlar bien la líneas de comandos de Git para aprovechar todas su ventajas, antes de esta práctica ya había previsto su uso profesionalmente,
+  y me preparé los entornos de desarrollo, Apache Netbeans y Visual Studio Code, para la ocasión de poder sacarles provecho y aprender mucho más,
+  incluso ya tenía descargado el manual Git-Pro, y múltiples tutoriales y cursos al respecto.
 
   Anteriormente había buscado información sobre versiones libres para la gestión de repositorios como GitKraken, también para entorno visuales,
   de hecho instalé algunos pluggins en Visual Studio Code para consultar el histórico de cambios, la gestión de Branches, consola Git, y la 

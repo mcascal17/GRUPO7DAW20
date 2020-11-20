@@ -39,6 +39,7 @@
 	 	# "git push -u nombreDeConexion RamaSeleccionada"
 		Repositorio: "https://github.com/mcascal17/GRUPO7DAW20"
 
+
 	CREACION DEL FICHERO "VALORACIONES.TXT"
 
 	Hay dos formas de hacerlo:
@@ -82,11 +83,14 @@
 	Por último realizo un "git push conexión master" subiendo mis archivos a GITHUB.
 		# "git push conexión master"
 
-		*** [Modificaciones integrante 3]
+		*** [Modificaciones en el repositorio integrante 3]
 
-			*- Cambios en la rama Master, en la carpeta app, en el archivo "Config.php".
+			*- Subida de archivos al repositorio en la rama Master:
+			  -En la carpeta /app, archivo "Config.php" y "Controller.php"
+			  -En la carpeta /web, archivo "index.php"
 
-		*** [Nuevas Modificaciones integrante 2]
+		*** [Continuación del flujo de trabajo integrante 2]
+			*- Instalación y despliegue de la aplicación.
 
 	Una vez que el tercer integrante ha realizado su parte, me corresponde (integrante 2), 
 	a través de mi consola de comandos, y usando una conexión SSH (conectar a mi hosting de Cdmon).
@@ -147,11 +151,24 @@
 
 	*** Introduzco los datos correspondientes 
 
-	*** [Nuevas Modificaciones integrante 3]
+		
+
+	*** [Nuevas Modificaciones (integrante 3) en el repositorio tras la instalación y el despliegue (integrante 2)]
+		Actualizo el repositorio:
+		# "git pull conexion master"
 
 	10- En este último paso creo el archivo "historico.txt", con los cambios y procedimientos
 	realizados por los integrantes del Grupo 7, en el repositorio de GITHUB, con los comandos:
 		# "git add historico.txt"
+		# "git commit -m ‘Segundo commit Marin historico.txt’"
+		# "git push conexión master"
+
+	11- Valoraciones:
+		Actualizo el repositorio:
+		# "git pull conexion master"
+
+	Introduzco mis valoraciones sobre la práctica:
+		# "git add valoraciones.txt"
 		# "git commit -m ‘Segundo commit Marin historico.txt’"
 		# "git push conexión master"
 
