@@ -47,7 +47,7 @@
 	1- Desde el menú de GITHUB, en nuestro repositorio le damos a "add file" y nos dejará crear el 
 	fichero así como poner el comentario que consideremos oportuno en el commit.
 
-	2- Desde nuestro directorio local, creamos el fichero y después lo subimos a GITHUB con el mismo procedimiento que hicimos con los 		otros ficheros.
+	2- Desde nuestro directorio local, creamos el fichero y después lo subimos a GITHUB con el mismo procedimiento que hicimos con los otros ficheros.
 
 
 
@@ -96,7 +96,7 @@
 	a través de mi consola de comandos, y usando una conexión SSH (conectar a mi hosting de Cdmon).
 
 	Realizo las distintas operaciones descritas en instalacion.txt sobre la instalación 
-	y el despliegue del proyecto.
+	y el despliegue del proyecto directamente en GitHub y añado mis valoraciones al archivo valoraciones.txt .
 
 
 
